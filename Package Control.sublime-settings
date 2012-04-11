@@ -1,0 +1,27 @@
+{
+	"auto_upgrade_last_run": 1334114053,
+	"installed_packages":
+	[
+		"Darkburn",
+		"fdlint-sublime",
+		"GBK Encoding Support",
+		"Gist",
+		"jQuery",
+		"KeymapManager",
+		"LESS",
+		"Package Control",
+		"Prefixr",
+		"SideBarEnhancements",
+		"SVN",
+		"Tag",
+		"YUI Compressor",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"https://github.com/yanisliu/YUI-Compressor",
+		"https://github.com/yanisliu/Darkburn",
+		"https://github.com/dlazic88/Gist",
+		"https://github.com/yanisliu/fdlint-sublime"
+	]
+}
