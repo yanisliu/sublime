@@ -1,0 +1,36 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * custom-detail  description
+ * @module ModName
+ * @vm     []
+ * @author yanlong.liuyl
+ * @date   2012
+ */
+/*!!cmd:compress=true*/
+/*!!cmd:conv2unicode=true*/
+/*!!cmd:jsCompressOpt=["--disable-optimizations"]*/
+
+define(['jQuery', 'ModContext', 'Log'], function(${1}, ModContext, Log){
+    var ModName = {
+
+        init: function(node, config, area, areaConfig, faceConfig){
+            this.div = node;
+            this.config = config;
+
+            this.dosomething();
+        },
+
+        dosomething: function(){
+            
+        }
+    };
+
+    ModContext.add('mod-detail-modName', 'area-detail-areaName', ModName);
+});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>jsmod</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>
