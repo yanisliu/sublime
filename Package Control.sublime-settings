@@ -1,9 +1,10 @@
 {
-	"auto_upgrade_last_run": 1348622367,
+	"auto_upgrade_last_run": 1348662584,
 	"installed_packages":
 	[
 		"ConvertToUTF8",
 		"Darkburn",
+		"emmet-sublime",
 		"fdlint-sublime",
 		"Gist",
 		"jQuery",
@@ -24,6 +25,7 @@
 		"https://github.com/yanisliu/YUI-Compressor",
 		"https://github.com/yanisliu/Darkburn",
 		"https://github.com/dlazic88/Gist",
-		"https://github.com/yanisliu/fdlint-sublime"
+		"https://github.com/yanisliu/fdlint-sublime",
+		"https://github.com/sergeche/emmet-sublime"
 	]
 }

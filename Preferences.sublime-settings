@@ -1,16 +1,17 @@
 {
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/Darkburn/darkburn.tmTheme",
 	"font_face": "Monaco",
 	"font_size": 12.0,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"open_files_in_new_window": false,
-	"translate_tabs_to_spaces": true,
-	"word_wrap": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"ZenCoding"
+	],
+	"open_files_in_new_window": false,
 	"show_tab_close_buttons": false,
-	"bold_folder_labels": true
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
 }
