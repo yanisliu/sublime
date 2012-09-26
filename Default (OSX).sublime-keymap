@@ -1,2 +1,4 @@
 [
+    { "keys": ["ctrl+g"], "command": "find_next" },
+    { "keys": ["super+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} }
 ]

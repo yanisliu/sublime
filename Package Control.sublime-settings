@@ -1,15 +1,17 @@
 {
-	"auto_upgrade_last_run": 1334114053,
+	"auto_upgrade_last_run": 1348622367,
 	"installed_packages":
 	[
+		"ConvertToUTF8",
 		"Darkburn",
 		"fdlint-sublime",
-		"GBK Encoding Support",
 		"Gist",
 		"jQuery",
+		"jQuery Snippets pack",
 		"KeymapManager",
 		"LESS",
 		"Package Control",
+		"PlainTasks",
 		"Prefixr",
 		"SideBarEnhancements",
 		"SVN",

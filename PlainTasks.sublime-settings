@@ -1,0 +1,8 @@
+{
+    "open_tasks_bullet": "❑",
+    //"color_scheme": "Packages/Darkburn/tasks-OF.hidden-tmTheme",
+    "font_size": 12,
+    "font_face": "Monaco",
+    "line_padding_top": 2,
+    "line_padding_bottom": 2
+}
